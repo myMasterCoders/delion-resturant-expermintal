@@ -1,0 +1,1 @@
+import{o as e,A as t,_ as r}from"./Dd2iQ3yB.js";import{_ as n}from"./DlAUqK2U.js";const s={name:"orders"};function _(c,a,p,m,f,d){const o=r;return e(),t(o)}const x=n(s,[["render",_]]);export{x as default};

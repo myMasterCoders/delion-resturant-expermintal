@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{o as t,c as e}from"./Dd2iQ3yB.js";const c={name:"custom"};function s(r,n,a,p,m,_){return t(),e("p",null,"custom page")}const l=o(c,[["render",s]]);export{l as default};

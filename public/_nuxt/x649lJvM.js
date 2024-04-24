@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{o as e,c as r}from"./Dd2iQ3yB.js";const c={name:"second"};function n(s,t,a,p,_,d){return e(),r("p",null,"second for orders")}const l=o(c,[["render",n]]);export{l as default};
